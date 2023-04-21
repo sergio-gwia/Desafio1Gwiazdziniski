@@ -45,6 +45,6 @@ class ProductManager {
 
 const verduleria = new ProductManager
 
-verduleria.addProduct("pera","lalala", 123, "NoImage", 1234, 45)
-verduleria.addProduct("banana", "lalala", 123, "NoIMage", 1234, 55)
+verduleria.addProduct("pera","The Best Fruta ever!", 123, "NoImage", 1234, 45)
+verduleria.addProduct("banana", "The Best Fruta ever!", 123, "NoIMage", 1234, 55)
 verduleria.getProducts()
